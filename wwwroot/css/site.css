@@ -49,17 +49,14 @@ a, .btn-link {
         top: 0.5rem;
     }
 
-.platfrm {
-    position: absolute;
-    left: 30%;
-    max-width: fit-content;
-}
-
 .mainhead {
     position: absolute;
     top: 62%;
-    left: 35%;
+    text-align: center;
     font-size: large;
-
 }
 
+.platfrm {
+    position: absolute;
+    top: 7.5%;
+}
